@@ -45,3 +45,6 @@ En caso de continuar en el programa se iniciara de nuevo en la primer pantalla, 
 ✔️ JAVA
 
 # Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/3735658?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  
+| :---: |
