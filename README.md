@@ -46,5 +46,5 @@ En caso de continuar en el programa se iniciara de nuevo en la primer pantalla, 
 
 # Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/3735658?v=4" width=115><br><sub>Ricardo Ramirez</sub>](https://github.com/ricardoramirezmora) |  
+| [<img src="https://avatars.githubusercontent.com/u/122123239?v=4" width=115><br><sub>Ricardo Ramirez</sub>](https://github.com/ricardoramirezmora) |  
 | :---: |
