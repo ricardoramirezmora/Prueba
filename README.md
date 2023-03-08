@@ -19,7 +19,7 @@ Despues se solicita agregar la cantidad de dinero en caso de haber elegido conve
 
 ![](https://github.com/ricardoramirezmora/prueba/blob/master/Ingresar%20Cantidad.jpg)
 
-Si se eligió conversor de moneda se debera elegir entre las distintas opciones de conversion de moneda
+Si se eligió conversor de moneda se debera seleccionar entre las distintas opciones de conversion de moneda
 
 ![](https://github.com/ricardoramirezmora/prueba/blob/master/Seleccion.jpg)
 
