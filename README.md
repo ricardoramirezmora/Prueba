@@ -23,4 +23,8 @@ Si se eligió conversor de moneda se debera seleccionar entre las distintas opci
 
 ![](https://github.com/ricardoramirezmora/prueba/blob/master/Seleccion.jpg)
 
+Posteriormente se mostrará el resultado de la conversión
+
+![](https://github.com/ricardoramirezmora/prueba/blob/master/Resultado.jpg)
+
 
