@@ -3,13 +3,18 @@
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 
 # Indice
-Descripcion
 
-Funcionamiento
+- Descripcion del Proyecto
 
+- Funcionamiento
 
-# Descripción
+- Tecnologías utilizadas
+
+- Autor
+
+# Descripción del Proyecto
 Este programa realiza la conversión de pesos mexicanos a distintos tipos de moneda y viceversa utilizando un tipo de cambio con fecha de Marzo de 2023, además de convertir temperaturas de Celsius a Fahrenheit
+
 # Funcionamiento
 Al iniciar el programa se solicita al usuario seleccionar una opción de conversion, ya sea conversor de moneda o conversor de temperatura.
 
@@ -33,3 +38,10 @@ Por último se preguntará si desea continuar en el programa
 
 En caso de continuar en el programa se iniciara de nuevo en la primer pantalla, en el caso de elegir no continuar se mostrará una ventana indicando el fin del programa
 
+![](https://github.com/ricardoramirezmora/prueba/blob/master/Fin.jpg)
+
+# Tecnologías utilizadas
+
+✔️ JAVA
+
+# Autor
