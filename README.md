@@ -27,4 +27,9 @@ Posteriormente se mostrará el resultado de la conversión
 
 ![](https://github.com/ricardoramirezmora/prueba/blob/master/Resultado.jpg)
 
+Por último se preguntará si desea continuar en el programa
+
+![](https://github.com/ricardoramirezmora/prueba/blob/master/Continuar.jpg)
+
+En caso de continuar en el programa se iniciara de nuevo en la primer pantalla, en el caso de elegir no continuar se mostrará una ventana indicando el fin del programa
 
