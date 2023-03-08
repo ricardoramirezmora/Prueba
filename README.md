@@ -1,6 +1,6 @@
 # Conversor de Monedas y Temperatura
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://github.com/ricardoramirezmora/prueba/blob/master/divisas%20(1).png)
 
 # Indice
 
