@@ -17,7 +17,9 @@ Al iniciar el programa se solicita al usuario seleccionar una opción de convers
 
 Despues se solicita agregar la cantidad de dinero en caso de haber elegido conversor de moneda o grados de temperatura en caso de haber elegido conversor de temperatura
 
+![](https://github.com/ricardoramirezmora/prueba/blob/master/Ingresar%20Cantidad.jpg)
 
+Si se eligió conversor de moneda se debera elegir entre las distintas opciones de conversion de moneda
 
 ![](https://github.com/ricardoramirezmora/prueba/blob/master/Seleccion.jpg)
 
